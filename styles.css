@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+#buttons{
+    height:10rem;
+    width :70%;
+    margin:auto;
+    background-color: #a164df;
+    padding :20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+
+#buttons>button{
+
+    width: 100px;
+    height: 50px;
+    background-color: #663399;
+    color: white;
+    border: none;
+    border-radius: 5px;
+
+
+}
